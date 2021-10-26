@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Hystrix" />
+        <module name="configClient" />
         <module name="Eureka-1" />
         <module name="commons" />
         <module name="micrometer" />
@@ -15,6 +16,7 @@
         <module name="cluod-Resilience4j" />
         <module name="provider" />
         <module name="Gateway" />
+        <module name="configServer" />
         <module name="Zuul" />
         <module name="provider1" />
         <module name="Eureka" />
@@ -33,6 +35,8 @@
       <module name="OpenFeign" options="-parameters" />
       <module name="Zuul" options="-parameters" />
       <module name="cluod-Resilience4j" options="-parameters" />
+      <module name="configClient" options="-parameters" />
+      <module name="configServer" options="-parameters" />
       <module name="consul-provider" options="-parameters" />
       <module name="consumer" options="-parameters" />
       <module name="micrometer" options="-parameters" />
