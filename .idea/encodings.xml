@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Eureka-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OpenFeign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cluod-Resilience4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micrometer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider1/src/main/java" charset="UTF-8" />
+  </component>
+</project>

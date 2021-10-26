@@ -1,0 +1,21 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: javaboy_route
+          uri: http://httpbin.org
+          predicates:
+            - Path=/get
+            - After=2021-01-01T01:01:01+08:00[Asia/Shanghai]
+      discovery:
+        locator:
+          enabled: true
+  application:
+    name: gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka
+logging:
+  level:
+    org.springframework.cloud.gateway: debug

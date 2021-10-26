@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Hystrix" />
+        <module name="Eureka-1" />
+        <module name="commons" />
+        <module name="micrometer" />
+        <module name="OpenFeign" />
+        <module name="Resilience4j" />
+        <module name="cluod-Resilience4j" />
+        <module name="provider" />
+        <module name="Gateway" />
+        <module name="Zuul" />
+        <module name="provider1" />
+        <module name="Eureka" />
+        <module name="consul-provider" />
+        <module name="hello-api" />
+        <module name="consumer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Eureka" options="-parameters" />
+      <module name="Eureka-1" options="-parameters" />
+      <module name="Gateway" options="-parameters" />
+      <module name="Hystrix" options="-parameters" />
+      <module name="OpenFeign" options="-parameters" />
+      <module name="Zuul" options="-parameters" />
+      <module name="cluod-Resilience4j" options="-parameters" />
+      <module name="consul-provider" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="micrometer" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="provider1" options="-parameters" />
+    </option>
+  </component>
+</project>
