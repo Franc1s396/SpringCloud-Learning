@@ -7,12 +7,16 @@
     <file url="file://$PROJECT_DIR$/Hystrix/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/OpenFeign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba-nacos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cluod-Resilience4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consul-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micrometer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacosConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacosServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacosServer01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sleuth/src/main/java" charset="UTF-8" />

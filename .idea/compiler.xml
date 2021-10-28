@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sleuth" />
+        <module name="alibaba-nacos" />
         <module name="Hystrix" />
         <module name="configClient" />
+        <module name="nacosServer01" />
+        <module name="nacosConsumer" />
         <module name="Eureka-1" />
         <module name="commons" />
         <module name="micrometer" />
         <module name="OpenFeign" />
+        <module name="nacosServer" />
         <module name="Resilience4j" />
         <module name="cluod-Resilience4j" />
         <module name="provider" />
@@ -36,12 +40,16 @@
       <module name="Hystrix" options="-parameters" />
       <module name="OpenFeign" options="-parameters" />
       <module name="Zuul" options="-parameters" />
+      <module name="alibaba-nacos" options="-parameters" />
       <module name="cluod-Resilience4j" options="-parameters" />
       <module name="configClient" options="-parameters" />
       <module name="configServer" options="-parameters" />
       <module name="consul-provider" options="-parameters" />
       <module name="consumer" options="-parameters" />
       <module name="micrometer" options="-parameters" />
+      <module name="nacosConsumer" options="-parameters" />
+      <module name="nacosServer" options="-parameters" />
+      <module name="nacosServer01" options="-parameters" />
       <module name="provider" options="-parameters" />
       <module name="provider1" options="-parameters" />
       <module name="sleuth" options="-parameters" />

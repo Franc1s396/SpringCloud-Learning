@@ -21,6 +21,10 @@
         <option value="$PROJECT_DIR$/configClient/pom.xml" />
         <option value="$PROJECT_DIR$/stream/pom.xml" />
         <option value="$PROJECT_DIR$/sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba-nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/nacosServer/pom.xml" />
+        <option value="$PROJECT_DIR$/nacosServer01/pom.xml" />
+        <option value="$PROJECT_DIR$/nacosConsumer/pom.xml" />
       </list>
     </option>
   </component>
