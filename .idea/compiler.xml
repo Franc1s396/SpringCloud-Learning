@@ -24,6 +24,7 @@
         <module name="Gateway" />
         <module name="configServer" />
         <module name="Zuul" />
+        <module name="alibaba-Sentinel" />
         <module name="provider1" />
         <module name="Eureka" />
         <module name="consul-provider" />
@@ -40,6 +41,7 @@
       <module name="Hystrix" options="-parameters" />
       <module name="OpenFeign" options="-parameters" />
       <module name="Zuul" options="-parameters" />
+      <module name="alibaba-Sentinel" options="-parameters" />
       <module name="alibaba-nacos" options="-parameters" />
       <module name="cluod-Resilience4j" options="-parameters" />
       <module name="configClient" options="-parameters" />
